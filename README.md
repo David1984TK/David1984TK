@@ -30,15 +30,3 @@
 <p align="center">
 <a href="https://www.instagram.com/dav.___d"><img src="https://img.shields.io/badge/-@dav.___d-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Bygato1984TK&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bygato1984TK&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bygato1984TK&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
-</div>
