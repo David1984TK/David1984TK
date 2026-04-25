@@ -41,6 +41,25 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=anthropic&logoColor=white)
 
+---
+
+### 📊 &nbsp;GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David1984TK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David1984TK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=David1984TK&theme=tokyonight&hide_border=true" alt="David1984TK streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=David1984TK&theme=tokyonight&no-frame=true&row=1&column=7" alt="David1984TK trophies"/>
+</p>
+
+---
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
