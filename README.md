@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=David1984TK&theme=tokyonight&no-frame=true&row=1&column=7" alt="David1984TK trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=David1984TK&theme=tokyo-night&hide_border=true&area=true" alt="David1984TK activity graph"/>
 </p>
 
 ---
